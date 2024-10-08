@@ -19,7 +19,7 @@ Software build-up | Period increase: The period that lights up the LEDs when you
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-User Guide
+User Guide:
 For my inputs, we have 4 buttons, with each button corresponding to a given LED, and we have a joystick, where pressing on the joystick will toggle the music in the main menu, pushing down on the joystick starts the game, and pushing up only activates during the insert token lose screen. For my outputs, I am using an LED matrix to show the round number/the # of LEDs being shown in that round, and a smiley face when they win and a frown face when they lose
 Pattern of the LEDs will be randomized everytime the user has started playing. Buttons do not work unless the game has been started and will not work until the given pattern has finished being outputted. So during the main menu the buttons will not make a sound or light up an LED. In contrast to the music toggle, once the game has started, the user is unable to play the tune even if they try clicking the joystick. Music toggle will only be available during the main menu. Insert token will not work unless we are in the state of showcasing our try again/lose screen. Inserting tokens during the game over the lost screen will not make the game go back to play mode.
 
