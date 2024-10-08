@@ -1,8 +1,6 @@
-/*       Name: Joey Yang | Email: jyang474@ucr.edu:
+/*       Name: Joey Yang | Email: joey.yang.j@gmail.com:
 
-*          Discussion Section: 022
 
- *         Assignment: Final Project: Simon Says
 
  *         Project Description: My version of simon says where we replicate a pattern given to us
 
