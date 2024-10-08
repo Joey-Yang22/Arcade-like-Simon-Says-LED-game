@@ -49,3 +49,6 @@ serialATmega.h - to be able to print serially in my code
 spiAVR.h - to be able to send data into my LED matrix
 stdlib.h - to use the srand() and rand() function to have a different pattern for the LEDs everytime the user starts the game.
 help.h - my own created helper function that gives me the ability to control the LED matrix and the shift register.
+
+
+YOUTUBE LINK: https://youtu.be/ZUVSq-4shMw?si=sX2XXi4vZLcetNaB
